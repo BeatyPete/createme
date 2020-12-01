@@ -33,6 +33,8 @@ No need for contributions.
 ## Tests
 
 You can begin creating your readme by entering "node index.js" into the command line while in the main directory of the application. Then you enter your project title, description, installation process, usage instructions, how to make contributions, and a test example. Then you will enter your github username, which will automatically link to your github profile. Next is your email, which will be placed in the statement "Feel free to email me with any questions at [email]". Finally you will be asked to select a license from a list, press the arrow keys and enter to select. This will populate the license section and license badge at the top of the page. After all questions are answered the readme file will be created and can be found in the main directory as "your-readme.md". A new readme can be created again, but will write over the previous one if it's still in the directory.
+![demo](./demo.gif)
+[link to video](https://drive.google.com/file/d/1KAA7s_1RzoMj-nl23sv_MSNI_GPa9lMA/view)
 
 ## License
 
